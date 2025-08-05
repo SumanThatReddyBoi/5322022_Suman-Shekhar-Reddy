@@ -6,5 +6,7 @@
 ### SimpliLearn - Git Certificate
 <img width="2342" height="1656" alt="Image" src="https://github.com/user-attachments/assets/cd5b3c63-4253-43f1-93b1-5c10c91b5026" />
 
-### SoloLearn - Introduction to C - Certificate
+### SoloLearn - Introduction to C/ C Intermediate - Certificates
 ![Image](https://github.com/user-attachments/assets/75be765a-a5ae-4266-83b0-15657b90b771)
+
+![Image](https://github.com/user-attachments/assets/df0267d3-9f33-4400-ae30-732698a2d84e)
